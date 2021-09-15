@@ -1,0 +1,2 @@
+D:\user_project\Lab_1_class\Debug\Lab_1_class.exe
+D:\user_project\Lab_1_class\Debug\Lab_1_class.pdb

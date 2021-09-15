@@ -1,0 +1,10 @@
+﻿  Lab_1_class.cpp
+D:\user_project\Lab_1_class\Lab_1_class.cpp(19,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\user_project\Lab_1_class\Lab_1_class.cpp(19,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\user_project\Lab_1_class\Lab_1_class.cpp(37,6): warning C4101: i: неиспользованная локальная переменная
+  Project_1_class.cpp
+D:\user_project\Lab_1_class\Project_1_class.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\user_project\Lab_1_class\Project_1_class.cpp(53,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\user_project\Lab_1_class\Project_1_class.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Lab_1_class.vcxproj -> D:\user_project\Lab_1_class\Debug\Lab_1_class.exe
